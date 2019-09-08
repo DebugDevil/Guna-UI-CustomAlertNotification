@@ -1,0 +1,11 @@
+C:\Users\Ilham-PC\Source\Repos\vs\Guna-UI-CustomAlertNotification\CustomAlertNotifications\CustomAlertNotificationsCShrap\bin\Debug\CustomAlertNotificationsCShrap.exe.config
+C:\Users\Ilham-PC\Source\Repos\vs\Guna-UI-CustomAlertNotification\CustomAlertNotifications\CustomAlertNotificationsCShrap\bin\Debug\CustomAlertNotificationsCShrap.exe
+C:\Users\Ilham-PC\Source\Repos\vs\Guna-UI-CustomAlertNotification\CustomAlertNotifications\CustomAlertNotificationsCShrap\bin\Debug\CustomAlertNotificationsCShrap.pdb
+C:\Users\Ilham-PC\Source\Repos\vs\Guna-UI-CustomAlertNotification\CustomAlertNotifications\CustomAlertNotificationsCShrap\bin\Debug\Guna.UI.dll
+C:\Users\Ilham-PC\Source\Repos\vs\Guna-UI-CustomAlertNotification\CustomAlertNotifications\CustomAlertNotificationsCShrap\obj\Debug\CustomAlertNotificationsCShrap.csprojResolveAssemblyReference.cache
+C:\Users\Ilham-PC\Source\Repos\vs\Guna-UI-CustomAlertNotification\CustomAlertNotifications\CustomAlertNotificationsCShrap\obj\Debug\CustomAlertNotificationsCShrap.Form1.resources
+C:\Users\Ilham-PC\Source\Repos\vs\Guna-UI-CustomAlertNotification\CustomAlertNotifications\CustomAlertNotificationsCShrap\obj\Debug\CustomAlertNotificationsCShrap.frmAlert.resources
+C:\Users\Ilham-PC\Source\Repos\vs\Guna-UI-CustomAlertNotification\CustomAlertNotifications\CustomAlertNotificationsCShrap\obj\Debug\CustomAlertNotificationsCShrap.Properties.Resources.resources
+C:\Users\Ilham-PC\Source\Repos\vs\Guna-UI-CustomAlertNotification\CustomAlertNotifications\CustomAlertNotificationsCShrap\obj\Debug\CustomAlertNotificationsCShrap.csproj.GenerateResource.Cache
+C:\Users\Ilham-PC\Source\Repos\vs\Guna-UI-CustomAlertNotification\CustomAlertNotifications\CustomAlertNotificationsCShrap\obj\Debug\CustomAlertNotificationsCShrap.exe
+C:\Users\Ilham-PC\Source\Repos\vs\Guna-UI-CustomAlertNotification\CustomAlertNotifications\CustomAlertNotificationsCShrap\obj\Debug\CustomAlertNotificationsCShrap.pdb
