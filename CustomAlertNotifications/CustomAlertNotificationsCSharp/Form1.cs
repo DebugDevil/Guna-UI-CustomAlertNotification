@@ -5,10 +5,9 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace CustomAlertNotificationsCShrap
+namespace CustomAlertNotificationsCSharp
 {
     public partial class Form1 : Form
     {
@@ -16,7 +15,6 @@ namespace CustomAlertNotificationsCShrap
         {
             InitializeComponent();
         }
-
         public void Alert(string msg, frmAlert.alertTypeEnum type)
         {
             frmAlert f = new frmAlert();

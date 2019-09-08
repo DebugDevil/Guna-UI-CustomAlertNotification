@@ -1,4 +1,4 @@
-﻿namespace CustomAlertNotificationsCShrap
+﻿namespace CustomAlertNotificationsCSharp
 {
     partial class Form1
     {
@@ -47,7 +47,7 @@
             this.GunaPanel1.Location = new System.Drawing.Point(0, 0);
             this.GunaPanel1.Name = "GunaPanel1";
             this.GunaPanel1.Size = new System.Drawing.Size(555, 80);
-            this.GunaPanel1.TabIndex = 5;
+            this.GunaPanel1.TabIndex = 10;
             // 
             // GunaLabel1
             // 
@@ -78,7 +78,7 @@
             this.GunaAdvenceButton4.ImageSize = new System.Drawing.Size(18, 18);
             this.GunaAdvenceButton4.LineColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.GunaAdvenceButton4.LineLeft = 5;
-            this.GunaAdvenceButton4.Location = new System.Drawing.Point(293, 246);
+            this.GunaAdvenceButton4.Location = new System.Drawing.Point(288, 250);
             this.GunaAdvenceButton4.Name = "GunaAdvenceButton4";
             this.GunaAdvenceButton4.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.GunaAdvenceButton4.OnHoverBorderColor = System.Drawing.Color.Black;
@@ -87,7 +87,7 @@
             this.GunaAdvenceButton4.OnHoverLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.GunaAdvenceButton4.OnPressedColor = System.Drawing.Color.Black;
             this.GunaAdvenceButton4.Size = new System.Drawing.Size(220, 50);
-            this.GunaAdvenceButton4.TabIndex = 9;
+            this.GunaAdvenceButton4.TabIndex = 14;
             this.GunaAdvenceButton4.Text = "Info";
             this.GunaAdvenceButton4.Click += new System.EventHandler(this.GunaAdvenceButton4_Click);
             // 
@@ -110,7 +110,7 @@
             this.GunaAdvenceButton3.ImageSize = new System.Drawing.Size(18, 18);
             this.GunaAdvenceButton3.LineColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.GunaAdvenceButton3.LineLeft = 5;
-            this.GunaAdvenceButton3.Location = new System.Drawing.Point(293, 177);
+            this.GunaAdvenceButton3.Location = new System.Drawing.Point(288, 181);
             this.GunaAdvenceButton3.Name = "GunaAdvenceButton3";
             this.GunaAdvenceButton3.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.GunaAdvenceButton3.OnHoverBorderColor = System.Drawing.Color.Black;
@@ -119,7 +119,7 @@
             this.GunaAdvenceButton3.OnHoverLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.GunaAdvenceButton3.OnPressedColor = System.Drawing.Color.Black;
             this.GunaAdvenceButton3.Size = new System.Drawing.Size(220, 50);
-            this.GunaAdvenceButton3.TabIndex = 8;
+            this.GunaAdvenceButton3.TabIndex = 13;
             this.GunaAdvenceButton3.Text = "Error";
             this.GunaAdvenceButton3.Click += new System.EventHandler(this.GunaAdvenceButton3_Click);
             // 
@@ -142,7 +142,7 @@
             this.GunaAdvenceButton2.ImageSize = new System.Drawing.Size(18, 18);
             this.GunaAdvenceButton2.LineColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.GunaAdvenceButton2.LineLeft = 5;
-            this.GunaAdvenceButton2.Location = new System.Drawing.Point(56, 246);
+            this.GunaAdvenceButton2.Location = new System.Drawing.Point(51, 250);
             this.GunaAdvenceButton2.Name = "GunaAdvenceButton2";
             this.GunaAdvenceButton2.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.GunaAdvenceButton2.OnHoverBorderColor = System.Drawing.Color.Black;
@@ -151,7 +151,7 @@
             this.GunaAdvenceButton2.OnHoverLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.GunaAdvenceButton2.OnPressedColor = System.Drawing.Color.Black;
             this.GunaAdvenceButton2.Size = new System.Drawing.Size(220, 50);
-            this.GunaAdvenceButton2.TabIndex = 7;
+            this.GunaAdvenceButton2.TabIndex = 12;
             this.GunaAdvenceButton2.Text = "Warning";
             this.GunaAdvenceButton2.Click += new System.EventHandler(this.GunaAdvenceButton2_Click);
             // 
@@ -174,7 +174,7 @@
             this.GunaAdvenceButton1.ImageSize = new System.Drawing.Size(18, 18);
             this.GunaAdvenceButton1.LineColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.GunaAdvenceButton1.LineLeft = 5;
-            this.GunaAdvenceButton1.Location = new System.Drawing.Point(56, 177);
+            this.GunaAdvenceButton1.Location = new System.Drawing.Point(51, 181);
             this.GunaAdvenceButton1.Name = "GunaAdvenceButton1";
             this.GunaAdvenceButton1.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.GunaAdvenceButton1.OnHoverBorderColor = System.Drawing.Color.Black;
@@ -183,7 +183,7 @@
             this.GunaAdvenceButton1.OnHoverLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.GunaAdvenceButton1.OnPressedColor = System.Drawing.Color.Black;
             this.GunaAdvenceButton1.Size = new System.Drawing.Size(220, 50);
-            this.GunaAdvenceButton1.TabIndex = 6;
+            this.GunaAdvenceButton1.TabIndex = 11;
             this.GunaAdvenceButton1.Text = "Success";
             this.GunaAdvenceButton1.Click += new System.EventHandler(this.GunaAdvenceButton1_Click);
             // 
@@ -191,7 +191,6 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(555, 413);
             this.Controls.Add(this.GunaPanel1);
             this.Controls.Add(this.GunaAdvenceButton4);
@@ -199,7 +198,6 @@
             this.Controls.Add(this.GunaAdvenceButton2);
             this.Controls.Add(this.GunaAdvenceButton1);
             this.Name = "Form1";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             this.GunaPanel1.ResumeLayout(false);
             this.GunaPanel1.PerformLayout();
@@ -215,7 +213,6 @@
         internal Guna.UI.WinForms.GunaAdvenceButton GunaAdvenceButton3;
         internal Guna.UI.WinForms.GunaAdvenceButton GunaAdvenceButton2;
         internal Guna.UI.WinForms.GunaAdvenceButton GunaAdvenceButton1;
-
     }
 }
 

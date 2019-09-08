@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CustomAlertNotificationsCShrap")]
+[assembly: AssemblyTitle("CustomAlertNotificationsCSharp")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CustomAlertNotificationsCShrap")]
+[assembly: AssemblyProduct("CustomAlertNotificationsCSharp")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("5733e767-3494-4a54-a7b5-747882b9cc3f")]
+[assembly: Guid("e4bc6aa2-d291-4135-8e95-4ceb33e4c3ff")]
 
 // Version information for an assembly consists of the following four values:
 //

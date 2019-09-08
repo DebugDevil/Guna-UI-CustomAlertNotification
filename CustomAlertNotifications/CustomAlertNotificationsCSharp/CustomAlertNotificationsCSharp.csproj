@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{83E3641A-6F74-441D-B8EA-B139FCFDE7FC}</ProjectGuid>
+    <ProjectGuid>{E4BC6AA2-D291-4135-8E95-4CEB33E4C3FF}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CustomAlertNotificationsCShrap</RootNamespace>
-    <AssemblyName>CustomAlertNotificationsCShrap</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <RootNamespace>CustomAlertNotificationsCSharp</RootNamespace>
+    <AssemblyName>CustomAlertNotificationsCSharp</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -33,7 +33,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Guna.UI">
-      <HintPath>..\..\..\..\..\..\Documents\Guna.UI-Framework-Lib\Beta2\Guna.UI.dll</HintPath>
+      <HintPath>..\..\..\..\..\Desktop\Guna.UI-Framework-Lib\Guna.UI.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="System" />
@@ -89,7 +89,10 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="Resources\Multiply_18px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Warning_28px.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Checkmark_28px.png" />
@@ -99,12 +102,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Info_28px.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Multiply_18px.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Warning_28px.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

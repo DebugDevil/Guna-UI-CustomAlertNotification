@@ -1,0 +1,10 @@
+C:\Users\Ilham-PC\Source\Repos\Guna-UI-CustomAlertNotification\CustomAlertNotifications\CustomAlertNotificationsCSharp\bin\Debug\CustomAlertNotificationsCSharp.exe
+C:\Users\Ilham-PC\Source\Repos\Guna-UI-CustomAlertNotification\CustomAlertNotifications\CustomAlertNotificationsCSharp\bin\Debug\CustomAlertNotificationsCSharp.pdb
+C:\Users\Ilham-PC\Source\Repos\Guna-UI-CustomAlertNotification\CustomAlertNotifications\CustomAlertNotificationsCSharp\bin\Debug\Guna.UI.dll
+C:\Users\Ilham-PC\Source\Repos\Guna-UI-CustomAlertNotification\CustomAlertNotifications\CustomAlertNotificationsCSharp\obj\Debug\CustomAlertNotificationsCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Ilham-PC\Source\Repos\Guna-UI-CustomAlertNotification\CustomAlertNotifications\CustomAlertNotificationsCSharp\obj\Debug\CustomAlertNotificationsCSharp.Form1.resources
+C:\Users\Ilham-PC\Source\Repos\Guna-UI-CustomAlertNotification\CustomAlertNotifications\CustomAlertNotificationsCSharp\obj\Debug\CustomAlertNotificationsCSharp.frmAlert.resources
+C:\Users\Ilham-PC\Source\Repos\Guna-UI-CustomAlertNotification\CustomAlertNotifications\CustomAlertNotificationsCSharp\obj\Debug\CustomAlertNotificationsCSharp.Properties.Resources.resources
+C:\Users\Ilham-PC\Source\Repos\Guna-UI-CustomAlertNotification\CustomAlertNotifications\CustomAlertNotificationsCSharp\obj\Debug\CustomAlertNotificationsCSharp.csproj.GenerateResource.Cache
+C:\Users\Ilham-PC\Source\Repos\Guna-UI-CustomAlertNotification\CustomAlertNotifications\CustomAlertNotificationsCSharp\obj\Debug\CustomAlertNotificationsCSharp.exe
+C:\Users\Ilham-PC\Source\Repos\Guna-UI-CustomAlertNotification\CustomAlertNotifications\CustomAlertNotificationsCSharp\obj\Debug\CustomAlertNotificationsCSharp.pdb

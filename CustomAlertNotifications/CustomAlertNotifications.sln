@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CustomAlertNotifications", "CustomAlertNotifications\CustomAlertNotifications.vbproj", "{69FDC573-E514-4C4D-B609-193078E03D42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomAlertNotificationsCShrap", "..\..\vs\Guna-UI-CustomAlertNotification\CustomAlertNotifications\CustomAlertNotificationsCShrap\CustomAlertNotificationsCShrap.csproj", "{83E3641A-6F74-441D-B8EA-B139FCFDE7FC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomAlertNotificationsCSharp", "CustomAlertNotificationsCSharp\CustomAlertNotificationsCSharp.csproj", "{E4BC6AA2-D291-4135-8E95-4CEB33E4C3FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{69FDC573-E514-4C4D-B609-193078E03D42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69FDC573-E514-4C4D-B609-193078E03D42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69FDC573-E514-4C4D-B609-193078E03D42}.Release|Any CPU.Build.0 = Release|Any CPU
-		{83E3641A-6F74-441D-B8EA-B139FCFDE7FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{83E3641A-6F74-441D-B8EA-B139FCFDE7FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{83E3641A-6F74-441D-B8EA-B139FCFDE7FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{83E3641A-6F74-441D-B8EA-B139FCFDE7FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4BC6AA2-D291-4135-8E95-4CEB33E4C3FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4BC6AA2-D291-4135-8E95-4CEB33E4C3FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4BC6AA2-D291-4135-8E95-4CEB33E4C3FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4BC6AA2-D291-4135-8E95-4CEB33E4C3FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
